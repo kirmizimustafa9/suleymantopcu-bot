@@ -1,4 +1,4 @@
-# Discord Bot
+# Süleyman topcu discord botu kodları
 
 Discord.js v14 ile yazılmış, slash komutları kullanan bir sunucu yönetim ve yardımcı botu.
 
